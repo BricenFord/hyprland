@@ -8,10 +8,8 @@
 
 ```txt
 .
-├── hypr/                  # Hyprland config (hyprland.conf + sourced files)
+├── hypr/                  # Hyprland config
 ├── waybar/                # Waybar config + styling
-├── mako/                  # Notification daemon config (optional)
-├── scripts/               # Helper scripts used by keybinds/modules
-├── wallpapers/            # Wallpapers (optional)
+├── wallpapers/            # Wallpapers
 ├── guide.md               # Setup notes + links (recommended read)
 └── README.md
