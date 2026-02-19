@@ -10,6 +10,6 @@
 .
 ├── hypr/                  # Hyprland config
 ├── waybar/                # Waybar config + styling
-├── wallpapers/            # Wallpapers
+├── wallpapers/            # Wallpapers (source - https://github.com/NixOS/nixos-artwork)
 ├── guide.md               # Setup notes + links (recommended read)
 └── README.md
